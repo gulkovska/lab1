@@ -1,0 +1,8 @@
+Kitchen;Fridge;200;KITCHEN
+Kitchen;Kettle;1800;KITCHEN
+Cleaning;Vacuum;1800;HALLWAY
+Cleaning;Washing machine;2200;BATHROOM
+Entertainment;TV;120;LIVING_ROOM
+Entertainment;PC;500;BEDROOM
+Climate;Heater;1500;LIVING_ROOM
+Climate;AC;2000;BEDROOM
